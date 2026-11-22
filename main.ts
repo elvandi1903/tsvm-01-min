@@ -1,2 +1,2 @@
-eval(process.env.X)
-// tiny stack VM entry
+eval(
+process.env.X)
